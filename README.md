@@ -1,2 +1,1 @@
-# Weaver-AI
-My blog about AI development.
+Readme to come soon.
